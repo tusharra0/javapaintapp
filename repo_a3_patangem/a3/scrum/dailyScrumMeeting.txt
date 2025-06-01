@@ -1,0 +1,103 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Nov 16, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 17, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 18, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 19, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 20, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 21, 2024
+	Yesterday : Nothing
+	Today     : Look at a3, understanding what it is asking us to do.
+	Obstacles : Possibly in understanding what the assignment is about.
+
+Nov 22, 2024
+	Yesterday : Looked at a3
+	Today     :Sick
+	Obstacles :Sick
+	
+Nov 23, 2024
+	Yesterday :Sick
+	Today     :Sick
+	Obstacles :Sick
+
+Nov 24, 2024
+	Yesterday :Sick
+	Today     :Sick
+	Obstacles :Sick
+
+Nov 25, 2024
+	Yesterday :Sick
+	Today     : Finish bug 3.1 and 3.2
+	Obstacles : Keeping up with other materials
+
+Nov 26, 2024
+	Yesterday : Somewhat completed bug 3.1
+	Today     : There is still lots errors in my code
+	Obstacles : Nothing
+	
+Nov 27, 2024
+	Yesterday : Fixed and completed and merged bug 3.1
+	Today     : Catch up on week 9,10,11 so i can complete part 1 and some of part 2 today
+	Obstacles : Understanding the content in week 9-11
+	
+Nov 28, 2024
+	Yesterday : Caught up till week 11
+	Today     : Complete US3.2 and US3.3
+	Obstacles : Nothing
+	
+Nov 29, 2024
+	Yesterday : Finished all of part 1
+	Today     : Finish part 3
+	Obstacles : understanding how to use ollama
+
+Nov 30, 2024
+	Yesterday :understood ollama
+	Today     : finish some of part 2
+	Obstacles : nothing
+
+Dec 1, 2024
+	Yesterday :finished some of part 2
+	Today     : nothing
+	Obstacles :nohting
+	
+Dec 2, 2024
+	Yesterday : nothing
+	Today     : finish the rest of part 2
+	Obstacles : nothing
+
+Dec 3, 2024
+	Yesterday : nothing
+	Today     : add up the rest of part 2 and submit
+	Obstacles : nothing
+
+Dec 4, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 5, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
