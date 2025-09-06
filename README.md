@@ -30,8 +30,8 @@ If JavaFX is not included with your JDK:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/tusharra0/java-paint-app.git
-   cd java-paint-app
+   git clone https://github.com/tusharra0/javapaintapp.git
+   cd javapaintapp
    ```
 
 2. **Compile the application:**
